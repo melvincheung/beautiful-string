@@ -1,4 +1,4 @@
-11
+12
 ABbCcc
 Good luck in the Facebook Hacker Cup this year!
 Ignore punctuation, please :)
@@ -10,3 +10,4 @@ The above line is the test of numbers and signs
 The above line is the test of only space
 1q84 is good!
 The above line is the test of a mixture space and spaces, letter and sign
+Note if there is an extra 'enter' in the last line of output. don't need it according to the sample output.
